@@ -1,6 +1,6 @@
 ## Olá, Eu sou a miqueline-melo 
 
-- 🌱 Estudando HTML5, CSS, JAVA e MYSQL
+- 🌱 Estudando JAVA e MYSQL
 - 📫 Contate-me no e-mail: miquelinepereiramelo@gmail.com
 - 😄 Pronouns: ela/dela
 - 🤓 A procura de um estagio de desenvolvedor.
